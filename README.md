@@ -16,4 +16,4 @@ Developed this website with a vsison that it might encourages the users to live 
 
 NOTE :
 actually created this website as a project as a blueprint how a suicide preventing website should look with all add on helping features to normal day-to-day normal homosapien to that person who is going through a mental unstability currently and also for patients family members 
-have a look -> github pages 
+have a look -> https://utkarsh-srivastava-official.github.io/HOPE---Sucide-Prevention-Website/
